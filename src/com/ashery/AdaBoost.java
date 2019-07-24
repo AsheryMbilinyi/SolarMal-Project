@@ -1,3 +1,5 @@
+package com.ashery;
+
 import weka.classifiers.Classifier;
 import weka.classifiers.meta.AdaBoostM1;
 import weka.classifiers.trees.DecisionStump;
