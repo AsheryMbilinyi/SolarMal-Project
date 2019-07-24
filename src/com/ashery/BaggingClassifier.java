@@ -1,3 +1,5 @@
+package com.ashery;
+
 import weka.classifiers.Classifier;
 import weka.classifiers.trees.DecisionStump;
 import weka.classifiers.meta.Bagging;
