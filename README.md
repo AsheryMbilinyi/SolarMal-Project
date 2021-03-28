@@ -1,1 +1,1 @@
-# SolarMal-Project
+# SolarMal Project
